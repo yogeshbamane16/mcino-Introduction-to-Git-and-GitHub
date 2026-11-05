@@ -1,8 +1,7 @@
 $ git checkout main
 Switched to branch 'main'
-
 $ git merge bug-fix-typo
-Updating 18428ce..d450808
+Updating a7c14e2..e3182b0
 Fast-forward
- simple-interest.sh | 2 +-
+ README.md | 2 +-
  1 file changed, 1 insertion(+), 1 deletion(-)

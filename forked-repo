@@ -1,3 +1,4 @@
+curl -s https://api.github.com/repos/yogeshbamane16/mcino-Introduction-to-Git-and-GitHub
 {
   "name": "mcino-Introduction-to-Git-and-GitHub",
   "full_name": "yogeshbamane16/mcino-Introduction-to-Git-and-GitHub",
